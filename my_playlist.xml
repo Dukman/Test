@@ -1,0 +1,43 @@
+##########################################################################################################
+
+									- XBMC iSTREAM PLAYLIST TOOLKIT -
+												By:Dukman
+
+												
+##########################################################################################################
+												MY_PLAYLIST.XML
+##########################################################################################################
+#START#
+#TITLE+BACKGROUND#
+<title>DUKMAN'S PLAYLIST</title>
+<poster>Dukman's Playlist</poster>
+<thumbnail>http://i73.photobucket.com/albums/i211/Dukman777/13_zps4ae55737.jpg</thumbnail>
+<fanart>http://i73.photobucket.com/albums/i211/Dukman777/DukmansPlaylist2_zps814a1d8a.jpg</fanart>
+
+#SEPERATOR - DELETE IF YOU WISH#
+<info>
+<message> [COLOR palegreen]- - - - For your enjoyment only[/COLOR] </message>
+<message>[COLOR blue]- - - - - - Watch for more - - - - - -[/COLOR]</message>
+</info>
+
+#DIR1
+<dir>
+<name>Movies</name>
+<thumbnail>http://i73.photobucket.com/albums/i211/Dukman777/movies1_zpsae8a5643.jpg</thumbnail>
+<link>https://raw.github.com/Dukman/Myplaylist/master/Movies/moviecollection.xml</link> 
+</dir>
+
+#DIR2
+<dir>
+<name>TV Shows</name>
+<thumbnail>http://i73.photobucket.com/albums/i211/Dukman777/tv1_zps161395bb.jpg</thumbnail>
+<link>https://raw.github.com/Dukman/Myplaylist/master/TV/tvshows.xml</link> 
+</dir>
+
+#DIR3 SERIALS
+<dir>
+<name>Serials[COLOR palegreen]**coming soon[/COLOR]</name>
+<thumbnail>http://i73.photobucket.com/albums/i211/Dukman777/serials_zps8bc547dc.jpg</thumbnail>
+<link>link</link> 
+</dir>
+#END#
