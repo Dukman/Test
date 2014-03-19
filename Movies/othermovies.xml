@@ -104,6 +104,27 @@
 <link>http://www.uploadc.com/g8vbk4dwcwye/BatmanChapter4.mp4.htm</link>
 <thumbnail></thumbnail>
 
+<item>
+		<title>SKY CALCIO HD [COLOR yellow]Football[/COLOR]</title><link>rtmp://31.220.0.133:1935/live playpath=skycalcio00 swfUrl=http://www.eucast.tv/player5.9.swf live=1 pageUrl=http://www.eucast.tv/</link>
+		<thumbnail>live.png</thumbnail>
+	</item>
+
+
+	<item>
+		<title>SPORT5 CZ [COLOR yellow]Motor, Tennis[/COLOR]</title><link>http://81.201.52.159:8023</link>
+		<thumbnail>live.png</thumbnail>
+	</item>
+
+	<item>
+		<title>VIASAT SPORT [COLOR yellow]Football, Golf, Hockey, Motor[/COLOR]</title><link>http://77.91.77.22:6310/?sid=e69de46abe28c6t59e6e729330d800ad</link>
+		<thumbnail>live.png</thumbnail>
+	</item>
+
+	<item>
+		<title>EUROSPORT UKR [COLOR yellow]Tennis, Winter Sports, Billar, Darts[/COLOR]</title><link>http://85.238.102.126:7777/udp/239.2.126.204:1234</link>
+		<thumbnail>live.png</thumbnail>
+	</item>
+
 </item>
 <info>
 <message> [COLOR red]TESTING[/COLOR]---- [COLOR pink]don't watch!!![/COLOR]</message>
